@@ -26,7 +26,7 @@ const routes = {
     search: SEARCH,
     users: USERS,
     userDetail: USER_DETAIL,
-    editProgile: EDIT_PROFILE,
+    editProfile: EDIT_PROFILE,
     changePassword: CHANGE_PASSWORD,
     videos: VIDEOS,
     upload: UPLOAD,
